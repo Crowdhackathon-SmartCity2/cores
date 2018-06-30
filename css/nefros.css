@@ -1,0 +1,58 @@
+
+#map {
+    background-color: #ffffff
+}
+p{
+text-align:center;
+color:#806600;
+background-color:beige; }
+
+
+
+h1 {
+    font-family: verdana;
+    text-align:center;
+    color:#806600;
+    font-size: 23px;
+    background-color:beige;
+}
+
+h2{
+text-align:center;
+color:black;
+background-color:white; 
+
+}
+
+h4{
+text-align:left;
+color:red;
+background-color:white; 
+vertical-align: top;
+}
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+}
+.leaflet-container {
+    background: #fff;
+    padding-right: 10px;
+}
+.leaflet-popup-content {
+    width:auto;
+    padding-right:10px;
+}
+.leaflet-tooltip {
+    background: none;
+    box-shadow: none;
+    border: none;
+}
+.leaflet-tooltip-left:before, .leaflet-tooltip-right:before {
+    border: 0px;
+}
